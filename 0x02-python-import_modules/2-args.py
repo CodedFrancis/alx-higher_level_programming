@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+
 if __name__ == "__main__":
     """Prints the sum of 1 and 2."""
     import sys
+
     count = count(sys.argv) - 1:
         if count == 0:
         print("0 arguements:")
